@@ -1,0 +1,17 @@
+
+This is a Turn Baste Game that only uses text and and OOP (object, orientated, programming).
+
+You can type "e" for the inventory "a" to attack and "s" to check the stats of your hero.
+If you need to back out of something then press the enter key and leave the input blank.
+In the inventory you can access items like potions.
+Use numbers "1, 2, 3, 4..." to access different enemies and potions in the inventory.
+
+Each time you play it is unique.
+
+The Knight is the most rounded character with a good attack and good defense.
+The Healer has the highest defense, the lowest attack, but can heal twice as much as the other players.
+The Archer has a little lower defense, but a greater attack.
+The Mage has the lowest defense, the highest attack, and a little more healing.
+
+The enemies have random stats.
+Other enemies do spawn more often than others.
